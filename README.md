@@ -22,6 +22,7 @@ const myFavouriteTech = () => {
         "Java",
         "JavaScript",
         "Python",
+        "PHP",
         "Kubernetes",
         "Docker",
         "SQL",
