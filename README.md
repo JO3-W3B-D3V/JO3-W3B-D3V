@@ -1,5 +1,5 @@
 ### About Me
-For more information, please visit [my website](https://www.jo3-w3b-d3v.com/).
+For more information, please visit [my website](https://www.jo3-w3b-d3v.com/). 🙂
 
 ```html
 <!-- This section covers a bit about me. -->
@@ -42,8 +42,7 @@ public class Inspiration {
         nerds.add(Nerd.builder().name("Krasimir Tsonev").url("https://krasimirtsonev.com/").build());
         nerds.add(Nerd.builder().name("Raymond Camden").url("https://www.raymondcamden.com/").build());
         nerds.add(Nerd.builder().name("Stefan Mischook").url("https://www.killersites.com/about/").build());
-        nerds.add(Nerd.builder().name("Darcey Lloyd").url("https://ericelliottjs.com/").build());
-        nerds.add(Nerd.builder().name("Eric Elliott").url("https://aftc.io/").build());
+        nerds.add(Nerd.builder().name("Darcey Lloyd").url("https://aftc.io/").build());
         return nerds;
     }
 }
