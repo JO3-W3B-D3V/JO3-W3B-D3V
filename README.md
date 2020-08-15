@@ -30,6 +30,8 @@ const myFavouriteTech = () => {
         "Progressive Web Applications" // HTML, CSS, etc.
     ];
 };
+
+console.log(myFavouriteTech());
 ```
 
 ```java
