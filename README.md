@@ -1,6 +1,13 @@
 ### About Me
 For more information, please visit [my website](https://www.jo3-w3b-d3v.com/). 🙂
 
+## Some Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JO3-W3B-D3V&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JO3-W3B-D3V&count_private=true&theme=tokyonight&line_height=52">
+</p>
+
+## Nerd Info
 ```html
 <!-- This section covers a bit about me. -->
 <!-- AKA. The boring part 😴 ... -->
