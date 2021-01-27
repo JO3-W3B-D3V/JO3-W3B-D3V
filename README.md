@@ -93,7 +93,7 @@ VALUES('Software Engineer', 'Lloyds Bank', '05/2020', NULL, 'I currently work in
     ('Software Engineer', 'Admiral', '03/2019', '05/2020', 'I worked on the van insurance product(s), I used technologies like K8s, Azure, Azure DevOps, Docker, Angular & Java.'),
     ('Software Developer', 'Inngot', '05/2018', '03/2019', 'I worked mostly as a front end developer, using react, I would sometimes use Java for the back end.'),
     ('Web Developer', 'Cruise Nation', '12/2017', '05/2018', 'I worked as a front end developer, ensuring that the customer experience was my number one priroity.'),
-    ('Juniour Web Developer', 'BVG', '02/2017', '12/2017', 'I worked as a fulls stack developer, though I mostly focused on implemengint pretty admin consoles, funky AJAX tools & increasing the performance of database queries.');
+    ('Juniour Web Developer', 'BVG', '02/2017', '12/2017', 'I worked as a full stack developer, though I mostly focused on implemengint pretty admin consoles, funky AJAX tools & increasing the performance of database queries.');
     
 -- Get all of my past experiences.
 SELECT * FROM Experiences;
